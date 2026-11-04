@@ -9,6 +9,8 @@
 
 <mark> Aasia312/QA--Practice </mark>
 
+![Open Issues](https://img.shields.io/github/issues/Aasia312/QA--Practice)
+
 ## Project Overview
 
 A small Python project for TechMart's order data. This scaffold exists to show
